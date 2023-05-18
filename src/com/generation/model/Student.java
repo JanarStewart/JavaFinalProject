@@ -24,6 +24,9 @@ public class Student
     public void enrollToCourse( Course course )
     {
         //TODO implement this method
+        // My pseudocode
+        // This needs to add the Course parameter to the ArrayList of courses the student is taking
+        // Maybe use the add() here? like courses.add(Course)?
     }
 
     public void registerApprovedCourse( Course course )
@@ -35,6 +38,7 @@ public class Student
     public boolean isAttendingCourse( String courseCode )
     {
         //TODO implement this method
+        // This would need to
         return false;
     }
 
