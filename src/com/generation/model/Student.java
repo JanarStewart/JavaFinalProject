@@ -38,7 +38,9 @@ public class Student
     public boolean isAttendingCourse( String courseCode )
     {
         //TODO implement this method
-        // This would need to
+        // This would need to check the courseCode against the code in the given student's courses Array list to determine whether or not student is in course.
+        // If student is in course, return true. If not, return false.
+
         return false;
     }
 
